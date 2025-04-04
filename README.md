@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NKOGallardo
+- 👋 Hi, I’m @NKOGallardo and im 15y
 - 👀 I’m interested in In learning at school cause i teach my self
 - 🌱 I’m currently learning how to become a websitedeverloper
 - 💞️ I’m looking to collaborate on DJI
