@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @NKOGallardo and im 15y<br>👀 I’m interested in In learning at school cause i teach my self<br>🌱 I’m currently learning how to become a websitedeverloper<br>💞️ I’m looking to collaborate on DJI<br>📫 How to reach me Email:NKOgalado@gmail.com<br>😄 Pronouns: he<br>⚡ Fun fact: i do calisthenics and play rugby
+👋 Hi, I’m @NKOGallardo and im 15y<br>👀 I’m interested in In learning at school cause i teach my self<br>🌱 I’m currently learning how to become a websitedeverloper<br>📫 How to reach me Email:NKOgalado@gmail.com<br>😄 Pronouns: he<br>⚡ Fun fact: i do calisthenics and play rugby
 ---
 [![](https://visitcount.itsvg.in/api?id=NKOGallardo&icon=0&color=0)](https://visitcount.itsvg.in)
 
