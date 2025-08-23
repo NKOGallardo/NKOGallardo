@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! 👋 Hi, I’m @NKOGallardo <br>👀 I’m interested in learning at school cause i teach my self<br>🌱 I’m currently a front-end dev<br>📫 How to reach me Email:NKOgalado@gmail.com<br>⚡ Fun fact: i do calisthenics and play rugby under 19<br>. love anime 🤩
+👋 Hi  there!, I’m @NKOGallardo <br>👀 I’m interested in learning at school cause i teach my self<br>🌱 I’m currently a front-end dev<br>📫 How to reach me Email:NKOgalado@gmail.com<br>⚡ Fun fact: i do calisthenics and play rugby under 19<br>. love anime 🤩
 
 
 ## 🌐 Socials:
