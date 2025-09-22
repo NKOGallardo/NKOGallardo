@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo.jpg" alt="Logo" width="200">
+  <img src="Logo.jpg" alt="Logo" width="200">
 </p>
 
 # 💫 About Me:
