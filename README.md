@@ -1,11 +1,7 @@
-<div style="display:flex;">
-  <p>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="500">
-  </p>
-  <p>
-    <img src="Logo.png" alt="Logo" width="200">
-  </p>
-</div>  
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="500">
+ </p>
+
 
 # 💫 About Me:
 👋 Hi  there!, I’m @NKOGallardo <br>👀 I’m interested in learning at school cause i teach my self<br>🌱 I’m currently a front-end dev<br>📫 How to reach me Email:NKOgalado@gmail.com<br>⚡ Fun fact: i do calisthenics and play rugby under 19<br>. love anime 🤩
