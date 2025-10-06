@@ -4,10 +4,12 @@
 
 
 # 💫 About Me:
-👋 Hi  there!, I’m @NKOGallardo
-<br>👀 I design what i imagin and proper planning<br>🌱 I’m currently enjoying React
-<br>📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
-<br>⚡ Fun fact: i do calisthenics and play rugby
+👋 Hi, I’m Ntobeko (NKO) — a self-taught web developer who loves building creative, responsive websites.<br>
+💻 I code with HTML, CSS, and JavaScript, turning ideas into functional designs.<br>
+🚀 Founder of NKO Coding – Building Online Possibilities.<br>
+🎯 Currently enjoying React and exploring new front-end ideas.<br>
+🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
+📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
 
 ## 🌐 Socials:
