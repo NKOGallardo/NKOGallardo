@@ -10,6 +10,7 @@
 💻Traying to sell websites to people<br>
 🎯 Currently enjoying React and exploring new front-end ideas.<br>
 🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
+✨My love for coding changed the way i think<br>
 📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
 
