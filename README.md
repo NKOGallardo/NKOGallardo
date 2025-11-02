@@ -1,7 +1,3 @@
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="">
- </p>
-
 
 # 💫 About Me:
 👋 Hi, I’m Ntobeko (NKO) — a self-taught web developer who loves building creative, responsive websites.<br>
