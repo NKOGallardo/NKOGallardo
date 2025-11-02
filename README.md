@@ -12,4 +12,10 @@
 # 💻 Tech Stack:
  ![My Skills](https://skillicons.dev/icons?i=js,,html,,css,)
  [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+
+ # Hobbies:
+ * calisthenics (gym)
+ * Rugby
+ * Minecraft
+ * Anime
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
