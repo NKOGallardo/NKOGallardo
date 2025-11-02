@@ -10,5 +10,6 @@
 📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
 # 💻 Tech Stack:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,)]
+ ![My Skills](https://skillicons.dev/icons?i=js,,html,,css,)
+ [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
