@@ -1,6 +1,6 @@
 
 # 🐱‍👤 About Me:
-👋 Hi, I’m Ntobeko (NKO) — a self-taught web developer who loves building creative, responsive websites.<br>
+👋 Hi, I’m <a href="https://nkogallardo.ink">Ntobeko</a> the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
 💻 I code with HTML, CSS, and JavaScript, turning ideas into functional designs.<br>
 🚀 Founder of NKO Coding – Building Online Possibilities.<br>
 💻Traying to sell websites to people<br>
