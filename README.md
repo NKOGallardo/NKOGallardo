@@ -1,28 +1,37 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="margin-right: out; margin-left: out; height: 300px;">
-<h1> 🐱‍👤 About Me: </h1>
-👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a> the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
+<div style="text-align: center;">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    alt="Coding GIF" 
+    style="height: 300px;"
+  >
+</div>
+
+<h1>🐱‍👤 About Me:</h1>
+👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
 💗🎯 Currently enjoying React and exploring new front-end ideas.<br>
-*In love with react<br>
+*In love with React*<br>
 💻 I code with HTML, CSS, and JavaScript, turning ideas into functional designs.<br>
 🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
-✨My love for coding changed the way i think<br>
-📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
+✨ My love for coding changed the way I think.<br>
+📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
-# 💻 Tech Stack:
- ![Static Badge](https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange)
-![Static Badge](https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow)
-![Static Badge](https://img.shields.io/badge/git-css?logoColor=blue&color=orange)
-![Static Badge](https://img.shields.io/badge/React-css?logoColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta)
-![Static Badge](https://img.shields.io/badge/Notion-css?logoColor=blue&color=black)
-![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
+<h2>💻 Tech Stack:</h2>
+<img src="https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange">
+<img src="https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue">
+<img src="https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow">
+<img src="https://img.shields.io/badge/git-css?logoColor=blue&color=orange">
+<img src="https://img.shields.io/badge/React-css?logoColor=blue&color=blue">
+<img src="https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta">
+<img src="https://img.shields.io/badge/Notion-css?logoColor=blue&color=black">
+<img src="https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue">
 
+<h2>🎯 Hobbies:</h2>
+<ul>
+  <li>Calisthenics (Gym)</li>
+  <li>Rugby</li>
+  <li>Minecraft</li>
+  <li>Anime</li>
+</ul>
 
- # Hobbies:
- * calisthenics (gym)
- * Rugby
- * Minecraft
- * Anime
-<h2>love to share my thought and ideas</h2>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>💭 Love to share my thoughts and ideas</h2>
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
