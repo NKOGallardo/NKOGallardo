@@ -1,12 +1,9 @@
-<div style="text-align: center;">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    alt="Coding GIF" 
-    style="height: 300px;"
-  >
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300px">
+</p>
 
 <h1>🐱‍👤 About Me:</h1>
+
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
 💗🎯 Currently enjoying React and exploring new front-end ideas.<br>
 *In love with React*<br>
@@ -15,23 +12,22 @@
 ✨ My love for coding changed the way I think.<br>
 📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
-<h2>💻 Tech Stack:</h2>
-<img src="https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange">
-<img src="https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue">
-<img src="https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow">
-<img src="https://img.shields.io/badge/git-css?logoColor=blue&color=orange">
-<img src="https://img.shields.io/badge/React-css?logoColor=blue&color=blue">
-<img src="https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta">
-<img src="https://img.shields.io/badge/Notion-css?logoColor=blue&color=black">
-<img src="https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue">
+# 💻 Tech Stack:
+![Static Badge](https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow)
+![Static Badge](https://img.shields.io/badge/git-css?logoColor=blue&color=orange)
+![Static Badge](https://img.shields.io/badge/React-css?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta)
+![Static Badge](https://img.shields.io/badge/Notion-css?logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
 
-<h2>🎯 Hobbies:</h2>
-<ul>
-  <li>Calisthenics (Gym)</li>
-  <li>Rugby</li>
-  <li>Minecraft</li>
-  <li>Anime</li>
-</ul>
+# 🏋️‍♂️ Hobbies:
+* Calisthenics (gym)
+* Rugby
+* Minecraft
+* Anime
 
 <h2>💭 Love to share my thoughts and ideas</h2>
+
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
