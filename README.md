@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-# 🐱‍👤 About Me:
+<h1> 🐱‍👤 About Me: </h1>
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a> the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
 💗🎯 Currently enjoying React and exploring new front-end ideas.<br>
 *In love with react<br>
