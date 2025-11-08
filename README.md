@@ -9,8 +9,15 @@
 📫 How to reach me <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
 # 💻 Tech Stack:
- ![My Skills](https://skillicons.dev/icons?i=js,,html,,css,)
- [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+ ![Static Badge](https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow)
+![Static Badge](https://img.shields.io/badge/git-css?logoColor=blue&color=orange)
+![Static Badge](https://img.shields.io/badge/React-css?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta)
+![Static Badge](https://img.shields.io/badge/Notion-css?logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
+
 
  # Hobbies:
  * calisthenics (gym)
