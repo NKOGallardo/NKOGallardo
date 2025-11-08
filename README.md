@@ -24,5 +24,5 @@
  * Rugby
  * Minecraft
  * Anime
-<h3>love to share my thought and ideas</h3>
+<h2>love to share my thought and ideas</h2>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
