@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/06/d2/05/06d205f84507317f07919740f30721db.jpg" height="300px">
+</p>
+
 <h1>🐱‍👤 About Me:</h1>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
