@@ -6,6 +6,7 @@
 *In love with React*<br>
 💻 I code with HTML, CSS, and JavaScript, turning ideas into functional designs.<br>
 🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
+💯I worked for a podcast making on the front-end<br>
 ✨ My love for coding changed the way I think.<br>
 📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
