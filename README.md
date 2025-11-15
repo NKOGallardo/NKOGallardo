@@ -1,5 +1,5 @@
 
-<h1><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="height: 100px; width:200px;> About Me:</h1><br>
+<h1><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="height: 100px; width:200px;> About Me:</h1><br></h1>
 <hr>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
