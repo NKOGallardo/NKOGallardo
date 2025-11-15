@@ -1,5 +1,5 @@
 
-<h1>🐱‍👤 About Me:</h1>
+<h1><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> About Me:</h1>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
 💗Currently enjoying React and exploring new front-end ideas.<br>
