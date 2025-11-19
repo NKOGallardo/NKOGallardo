@@ -9,14 +9,8 @@
 📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
 
 # 💻 Tech Stack:
-![Static Badge](https://img.shields.io/badge/HTML5-css?logoColor=blue&color=orange)
-![Static Badge](https://img.shields.io/badge/CSS3-css?logoColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Javascript-css?logoColor=blue&color=yellow)
-![Static Badge](https://img.shields.io/badge/git-css?logoColor=blue&color=orange)
-![Static Badge](https://img.shields.io/badge/React-css?logoColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Vite-css?logoColor=blue&color=magenta)
-![Static Badge](https://img.shields.io/badge/Notion-css?logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 🏋️‍♂️ Hobbies:
 * Calisthenics (gym)
@@ -25,4 +19,9 @@
 * Anime
 
 <h2>💭 Love to share my thoughts and ideas</h2>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
