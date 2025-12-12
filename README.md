@@ -1,12 +1,6 @@
 ## About Me: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, the founder of <a href="https://nkocoding.codes">NKOcoding</a> — a self-taught web developer who loves building creative, responsive websites.<br>
-💗Currently enjoying React and exploring new front-end ideas.<br>
-💻 I code with HTML, CSS, and JavaScript, turning ideas into functional designs.<br>
-🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
-🎧I worked on the front-end for a podcast platform, designing and refining the user interface.<br>
-✨ My love for coding changed the way I think.<br>
-📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
+Ntobeko is a young developer who codes like he’s late for kickoff—fast, focused, and always improving. He builds everything from responsive websites to full dashboards, mixing clean logic with a bit of creative chaos. Whether he’s crafting animations, experimenting with JavaScript tricks, or turning school projects into full-blown apps, he treats every repo like a new challenge worth dominating. His work is simple, sharp, and steadily leveling up—exactly what you’d expect from someone who genuinely enjoys pushing limits and learning something new every day. unemployed.
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
