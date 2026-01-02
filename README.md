@@ -18,6 +18,7 @@
 * Rugby
 * Minecraft
 * Anime
+* Create an Arduino Game 
 
 <h2>💭 Love to share my thoughts and ideas</h2>
 
