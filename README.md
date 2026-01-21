@@ -6,7 +6,8 @@
 🏉 When I’m not coding, you’ll find me on the rugby field giving it my all.<br>
 🎧I worked on the front-end for a podcast platform, designing and refining the user interface.<br>
 ✨ My love for coding changed the way I think.<br>
-📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a>
+📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a> <br>
+<a href="https://study-stream.vercel.app/">pending...</a>
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue)
