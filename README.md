@@ -23,7 +23,9 @@ Send a text, let's be friends.
 * Rugby
 * Minecraft
 * Anime
-* Create an Arduino Game 
+* Create an Arduino Game
+
+# Im South African
 
 <h2>💭 Love to share my thoughts and ideas</h2>
 
