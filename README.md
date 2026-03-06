@@ -9,7 +9,7 @@ Send a text, let's be friends.
 🎧I worked on the front-end for a podcast platform, designing and refining the user interface.<br>
 ✨ My love for coding changed the way I think.<br>
 📫 How to reach me: <a href="https://nkogallardo.link/#contact">Fill the Form</a> <br>
-You can text me or call me fill free<br>
+You can text me, let's collab<br>
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/VScode-css?logoColor=blue&color=blue) ![Static Badge](https://img.shields.io/badge/Trae-me?style=flat&color=Green)
