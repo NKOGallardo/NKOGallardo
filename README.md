@@ -24,7 +24,7 @@ Send a text, i'll be happy to say hi! <br>
 * Rugby
 * Minecraft
 * Anime
-* Create an Arduino Game
+* falling in love with Arduino
 
 # Im South African
 
