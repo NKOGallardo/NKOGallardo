@@ -1,7 +1,7 @@
 # 🚀 NKO | Ntobeko
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Craftsman;Creative+Builder;Building+Online+Possibilities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Engineer;Creative+Builder;Building+Online+Possibilities" />
 </p>
 
 ---
@@ -9,39 +9,58 @@
 ## 🧠 About Me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, founder of <a href="https://nkocoding.codes">NKOcoding</a>
-💻 Self-taught developer focused on building clean, responsive, and interactive web experiences
-🎧 Contributed to a podcast platform UI — improving layout flow and user experience
-🏉 Rugby player — discipline, pressure, and consistency shape how I code
-⚡ I build websites that feel alive, not just functional
-📫 Contact: <a href="https://nkogallardo.link/#contact">Reach out here</a>
+💻 Self-taught developer focused on building high-quality, responsive, and interactive web experiences
+🏉 Rugby player — discipline, focus, and consistency shape my coding mindset
+⚡ I enjoy turning ideas into real, functional, and visually strong websites
+📫 Contact: <a href="https://nkogallardo.link/#contact">Get in touch</a>
 
 ---
 
 ## ⚡ What I Build
 
-* 🌐 High-quality portfolio websites
-* 🎮 JavaScript logic-based mini games
-* 🎧 Podcast platform UI systems
-* 🧩 Interactive UI components & animations
-* ⚙️ Experimental frontend ideas
+* 🌐 Modern portfolio systems
+* 🎮 JavaScript logic & interactive mini games
+* 🧩 Advanced UI components & animations
+* ⚙️ Experimental frontend systems
+* 🔧 Hardware + software projects with Arduino
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Full Stack Mindset)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,vscode,firebase,vercel,supabase,mysql" />
+### Frontend Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,postgres" />
+</p>
+
+### Tools & Dev Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify" />
+</p>
+
+### Hardware / Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 ### 💼 Personal Portfolio System
 
 <img src="https://via.placeholder.com/900x400.png?text=Portfolio+Project+Preview" />
 
-A modern, animated portfolio system designed for performance, responsiveness, and clean UI structure.
+A high-performance, animated portfolio system built for clean UI, responsiveness, and scalability.
 
 ---
 
@@ -49,15 +68,15 @@ A modern, animated portfolio system designed for performance, responsiveness, an
 
 <img src="https://via.placeholder.com/900x400.png?text=JavaScript+Game+Preview" />
 
-A set of interactive mini-games built to improve logic, timing, and UI interaction skills.
+A set of logic-based mini games focused on improving problem-solving, timing, and UI interaction design.
 
 ---
 
-### 🎧 Podcast Platform UI
+### ⚙️ Arduino Projects
 
-<img src="https://via.placeholder.com/900x400.png?text=Podcast+UI+Preview" />
+<img src="https://via.placeholder.com/900x400.png?text=Arduino+Hardware+Preview" />
 
-A structured frontend interface focused on layout clarity, accessibility, and smooth user experience.
+Hardware experiments combining sensors, logic, and embedded systems using Arduino microcontrollers.
 
 ---
 
@@ -80,10 +99,11 @@ A structured frontend interface focused on layout clarity, accessibility, and sm
 
 ## 🎯 Current Focus
 
-* Mastering advanced frontend architecture
-* Building highly interactive UI systems
-* Strengthening JavaScript fundamentals
-* Expanding real-world portfolio projects
+* Building advanced frontend systems
+* Strengthening JavaScript mastery
+* Improving UI architecture and animations
+* Expanding into hardware + software integration
+* Developing real-world deployable projects
 
 ---
 
@@ -105,7 +125,7 @@ A structured frontend interface focused on layout clarity, accessibility, and sm
 
 ## 💭 Mindset
 
-> Clean code. Sharp thinking. Real execution.
+> Build clean. Think sharp. Execute like it matters.
 
 ---
 
