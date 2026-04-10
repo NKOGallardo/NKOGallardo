@@ -27,19 +27,19 @@
 ### BACKEND / DATA LAYER
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql" />
 </p>
 
 ### DEV TOOLS / DEPLOYMENT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,vercel,netlify,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,vercel" />
 </p>
 
 ### HARDWARE / EMBEDDED SYSTEMS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,windows" />
+  <img src="https://skillicons.dev/icons?i=arduino,windows" />
 </p>
 
 ---
