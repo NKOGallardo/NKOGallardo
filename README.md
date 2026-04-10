@@ -46,8 +46,6 @@
 
 ## 🌐 DEVELOPER ECOSYSTEM
 
-### 📧 Communication
-
 <p><img src="https://skillicons.dev/icons?i=notion,gmail,spotify"></p>
 
 ## 🎯 ACTIVE MISSIONS
