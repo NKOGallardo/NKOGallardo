@@ -16,33 +16,12 @@
 
 ---
 
-## 🧠 CORE PHILOSOPHY
-
-> “If it’s not clean, fast, and usable — it’s not finished.”
-
-I don’t build random pages.
-I build **systems that feel alive, structured, and intentional.**
-
----
-
-## 🧩 WHAT I BUILD
-
-```txt
-✔ High-performance portfolio systems
-✔ Interactive JavaScript applications
-✔ UI/UX-focused frontend interfaces
-✔ Animation-rich web experiences
-✔ Hardware + software integrations (Arduino)
-```
-
----
-
 ## 🛠️ ENGINEERING STACK
 
 ### CORE FRONTEND
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,expressjs,vite" />
 </p>
 
 ### BACKEND / DATA LAYER
@@ -54,80 +33,22 @@ I build **systems that feel alive, structured, and intentional.**
 ### DEV TOOLS / DEPLOYMENT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,vercel,netlify,linux" />
 </p>
 
 ### HARDWARE / EMBEDDED SYSTEMS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,windows" />
 </p>
 
 ---
 
-## 🚀 FLAGSHIP WORK
+## 🌐 DEVELOPER ECOSYSTEM
 
-### 🧠 Portfolio System (Next-Gen UI)
+### 📧 Communication
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x450.png?text=Next-Gen+Portfolio+System" />
-</p>
-
-A modular portfolio system designed with:
-
-* smooth animations
-* responsive grid architecture
-* scalable UI sections
-* performance-first structure
-
----
-
-### 🎮 JavaScript Engine Projects
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x450.png?text=Interactive+JS+Systems" />
-</p>
-
-Logic-driven applications focused on:
-
-* DOM control systems
-* event-driven architecture
-* UI state management
-* real-time interaction loops
-
----
-
-### ⚙️ Arduino Embedded Systems
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x450.png?text=Arduino+Embedded+Projects" />
-</p>
-
-Hardware builds combining:
-
-* sensors
-* logic circuits
-* embedded C/C++
-* real-world automation experiments
-
----
-
-## 📊 ENGINE STATUS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
+<p><img src="https://skillicons.dev/icons?i=notion,gmail,spotify"></p>
 
 ## 🎯 ACTIVE MISSIONS
 
