@@ -1,7 +1,7 @@
 # 🚀 NKO | Ntobeko
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=4E5F72&center=true&vCenter=true&width=650&lines=Frontend+Engineer;UI+Architect;Creative+Developer;Building+Online+Possibilities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=4E5F72&center=true&vCenter=true&width=650&lines=Full-stack+Developer;UI+Architect;Creative+Developer;Building+Online+Possibilities" />
 </p>
 
 ---
