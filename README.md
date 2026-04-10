@@ -1,7 +1,7 @@
 # 🚀 NKO | Ntobeko
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;Creative+Builder;Future+AI+Engineer;Building+Online+Possibilities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;Creative+Builder;UI+Craftsman;Building+Online+Possibilities" />
 </p>
 
 ---
@@ -9,14 +9,11 @@
 ## 🧠 About Me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, founder of <a href="https://nkocoding.codes">NKOcoding</a>
-💻 Self-taught developer building creative, responsive websites from scratch
-🎧 Worked on the front-end of a podcast platform — focused on UI/UX refinement
-🏉 Rugby player — discipline and consistency carry into my code
-⚡ Currently exploring **React** and leveling up my frontend systems
-🧠 Coding changed how I think — now I build with purpose
-
-📫 Reach me: <a href="https://nkogallardo.link/#contact">Contact Form</a>
-💬 Send a message — I actually reply
+💻 Self-taught developer building clean, responsive, and interactive websites from scratch
+🎧 Worked on the front-end of a podcast platform, focusing on UI/UX improvements
+🏉 Rugby player — discipline, pressure, and focus carry into my code
+⚡ I enjoy building real-world web experiences that actually feel alive
+📫 Contact: <a href="https://nkogallardo.link/#contact">Send a message</a>
 
 ---
 
@@ -24,31 +21,43 @@
 
 * 🌐 Modern portfolio websites
 * 🎮 JavaScript mini-games
-* 🛍️ E-commerce (Basenji — in progress)
+* 🛍️ E-commerce systems (Basenji — in progress)
 * 🎧 Podcast platform UI
-* 🧩 Interactive web components
+* 🧩 Interactive web components & animations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Clean & Practical)
 
-### Core
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,vscode,firebase,vercel,supabase,mysql" />
 </p>
 
-### Tools & Platforms
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,supabase,mysql" />
-</p>
+## 🚀 Featured Projects
 
-### Extras I Mess With
+### 💼 Portfolio Website
 
-* Arduino ⚙️
-* UI Animation & Effects ✨
-* Responsive Design Systems 📱
+<img src="https://via.placeholder.com/900x400.png?text=Portfolio+Preview" />
+
+A fully responsive personal portfolio with animations, project showcase, and modern UI design.
+
+---
+
+### 🛍️ Basenji E-Commerce (WIP)
+
+<img src="https://via.placeholder.com/900x400.png?text=Basenji+Store+Preview" />
+
+A clothing brand platform with product listings, cart system, and future backend integration.
+
+---
+
+### 🎮 JavaScript Game Collection
+
+<img src="https://via.placeholder.com/900x400.png?text=JS+Game+Preview" />
+
+Mini interactive games built to sharpen logic and UI interaction skills.
 
 ---
 
@@ -56,17 +65,25 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Mastering **JavaScript deeply**
-* Building **advanced UI interactions**
-* Moving into **Python + Machine Learning**
-* Creating a **high-end portfolio experience**
+* Building clean UI systems
+* Improving JavaScript mastery
+* Creating real-world production-ready websites
+* Strengthening portfolio projects
 
 ---
 
@@ -76,7 +93,7 @@
 * 💪 Calisthenics
 * 🎮 Minecraft
 * 🎌 Anime
-* ⚡ Arduino experiments
+* ⚙️ Arduino experiments
 
 ---
 
@@ -88,8 +105,7 @@
 
 ## 💭 Mindset
 
-> I don’t just learn code — I build with it.
-> Consistency beats talent when talent doesn’t work.
+> Build clean. Think sharp. Ship real work.
 
 ---
 
