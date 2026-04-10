@@ -1,7 +1,7 @@
 # 🚀 NKO | Ntobeko
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;Creative+Builder;UI+Craftsman;Building+Online+Possibilities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&color=4E5F72&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Craftsman;Creative+Builder;Building+Online+Possibilities" />
 </p>
 
 ---
@@ -9,25 +9,25 @@
 ## 🧠 About Me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 👋 Hi, I’m <a href="https://nkogallardo.link">Ntobeko</a>, founder of <a href="https://nkocoding.codes">NKOcoding</a>
-💻 Self-taught developer building clean, responsive, and interactive websites from scratch
-🎧 Worked on the front-end of a podcast platform, focusing on UI/UX improvements
-🏉 Rugby player — discipline, pressure, and focus carry into my code
-⚡ I enjoy building real-world web experiences that actually feel alive
-📫 Contact: <a href="https://nkogallardo.link/#contact">Send a message</a>
+💻 Self-taught developer focused on building clean, responsive, and interactive web experiences
+🎧 Contributed to a podcast platform UI — improving layout flow and user experience
+🏉 Rugby player — discipline, pressure, and consistency shape how I code
+⚡ I build websites that feel alive, not just functional
+📫 Contact: <a href="https://nkogallardo.link/#contact">Reach out here</a>
 
 ---
 
 ## ⚡ What I Build
 
-* 🌐 Modern portfolio websites
-* 🎮 JavaScript mini-games
-* 🛍️ E-commerce systems (Basenji — in progress)
-* 🎧 Podcast platform UI
-* 🧩 Interactive web components & animations
+* 🌐 High-quality portfolio websites
+* 🎮 JavaScript logic-based mini games
+* 🎧 Podcast platform UI systems
+* 🧩 Interactive UI components & animations
+* ⚙️ Experimental frontend ideas
 
 ---
 
-## 🛠️ Tech Stack (Clean & Practical)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,vscode,firebase,vercel,supabase,mysql" />
@@ -35,29 +35,29 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 💼 Portfolio Website
+### 💼 Personal Portfolio System
 
-<img src="https://via.placeholder.com/900x400.png?text=Portfolio+Preview" />
+<img src="https://via.placeholder.com/900x400.png?text=Portfolio+Project+Preview" />
 
-A fully responsive personal portfolio with animations, project showcase, and modern UI design.
-
----
-
-### 🛍️ Basenji E-Commerce (WIP)
-
-<img src="https://via.placeholder.com/900x400.png?text=Basenji+Store+Preview" />
-
-A clothing brand platform with product listings, cart system, and future backend integration.
+A modern, animated portfolio system designed for performance, responsiveness, and clean UI structure.
 
 ---
 
 ### 🎮 JavaScript Game Collection
 
-<img src="https://via.placeholder.com/900x400.png?text=JS+Game+Preview" />
+<img src="https://via.placeholder.com/900x400.png?text=JavaScript+Game+Preview" />
 
-Mini interactive games built to sharpen logic and UI interaction skills.
+A set of interactive mini-games built to improve logic, timing, and UI interaction skills.
+
+---
+
+### 🎧 Podcast Platform UI
+
+<img src="https://via.placeholder.com/900x400.png?text=Podcast+UI+Preview" />
+
+A structured frontend interface focused on layout clarity, accessibility, and smooth user experience.
 
 ---
 
@@ -80,10 +80,10 @@ Mini interactive games built to sharpen logic and UI interaction skills.
 
 ## 🎯 Current Focus
 
-* Building clean UI systems
-* Improving JavaScript mastery
-* Creating real-world production-ready websites
-* Strengthening portfolio projects
+* Mastering advanced frontend architecture
+* Building highly interactive UI systems
+* Strengthening JavaScript fundamentals
+* Expanding real-world portfolio projects
 
 ---
 
@@ -105,7 +105,7 @@ Mini interactive games built to sharpen logic and UI interaction skills.
 
 ## 💭 Mindset
 
-> Build clean. Think sharp. Ship real work.
+> Clean code. Sharp thinking. Real execution.
 
 ---
 
