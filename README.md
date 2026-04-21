@@ -8,7 +8,7 @@
 
 ## ⚡ SYSTEM OVERVIEW
 
-👋 I’m **Ntobeko**, founder of **NKOcoding** → https://nkocoding.codes
+👋 I’m **Ntobeko**, founder of **NKOcoding** → https://nkocoding.codes<br>
 💻 I build **fast, clean, interactive web systems** from scratch
 🏉 Rugby player — discipline translates directly into my code
 ⚙️ Focus: frontend engineering, UI systems, and real-world web products
