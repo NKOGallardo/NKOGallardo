@@ -56,7 +56,6 @@
 > Build scalable frontend frameworks (personal)
 > Expand Arduino + software integration
 > Push portfolio into industry-grade standard
-> love music
 ```
 
 ---
