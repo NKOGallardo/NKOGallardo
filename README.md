@@ -76,6 +76,7 @@
 > Build like it matters.
 > Ship like it’s production.
 > Improve until it feels inevitable.
+> learn something
 
 ---
 
