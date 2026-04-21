@@ -10,7 +10,7 @@
 
 👋 I’m **Ntobeko**, founder of **NKOcoding** → https://nkocoding.codes<br>
 💻 I build **fast, clean, interactive web systems** from scratch<br>
-🏉 Rugby player — discipline translates directly into my code
+🏉 Rugby player — discipline translates directly into my code<br>
 ⚙️ Focus: frontend engineering, UI systems, and real-world web products
 📍 Based in South Africa
 
