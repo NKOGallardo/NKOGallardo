@@ -61,7 +61,7 @@
 
 ---
 
-## 🏋️‍♂️ OUTSIDE SYSTEM
+## 🏋️‍♂️ Hobby's
 
 * 🏉 Rugby (discipline & pressure training)
 * 💪 Calisthenics (control & endurance)
