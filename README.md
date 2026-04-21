@@ -9,7 +9,7 @@
 ## ⚡ SYSTEM OVERVIEW
 
 👋 I’m **Ntobeko**, founder of **NKOcoding** → https://nkocoding.codes<br>
-💻 I build **fast, clean, interactive web systems** from scratch
+💻 I build **fast, clean, interactive web systems** from scratch<br>
 🏉 Rugby player — discipline translates directly into my code
 ⚙️ Focus: frontend engineering, UI systems, and real-world web products
 📍 Based in South Africa
