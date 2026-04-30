@@ -12,7 +12,8 @@
 💻 I build **fast, clean, interactive web systems** from scratch<br>
 🏉 Rugby player — discipline translates directly into my code<br>
 ⚙️ Focus: frontend engineering, UI systems, and real-world web products<br>
-📍 Based in South Africa
+📍 Based in South Africa<br>
+Feel free to get in touch
 
 ---
 
