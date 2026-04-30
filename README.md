@@ -81,5 +81,5 @@
 
 <p align="center">
   ⚡ BUILDING ONLINE POSSIBILITIES ⚡
-</p><br>fill free to contact me
+</p>
 
