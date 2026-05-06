@@ -13,7 +13,7 @@
 🏉 Rugby player — discipline translates directly into my code<br>
 ⚙️ Focus: frontend engineering, UI systems, and real-world web products<br>
 📍 Based in South Africa<br>
-fell free to text me --> nkogallardo
+fell free to text me --> <a href="https://nkogallardo.link/#contact">nkogallardo</a>
 
 ---
 
