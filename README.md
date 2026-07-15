@@ -106,13 +106,7 @@
 
 ## 💬 FINAL STATE
 
-> Build like it matters.
->
-> Ship like it's production.
->
-> Solve real problems.
->
-> Learn something every day.
+> For every positive action there is a corresponding reaction that opposes
 
 ---
 
