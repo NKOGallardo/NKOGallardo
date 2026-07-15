@@ -88,11 +88,9 @@
 
 - 🤖 Artificial Intelligence
 - 🌐 Full-stack Web Development
-- 🎨 UI / UX Engineering
 - ⚡ Performance Optimization
 - 🔥 Firebase & Cloud Services
 - 🧠 Human-centered Accessibility
-- 📱 Responsive Design
 
 ---
 
