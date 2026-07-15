@@ -96,9 +96,9 @@
 
 ## 🏋️ HOBBIES
 
-- 🏉 Rugby (discipline & pressure training)
+- 🏉 Rugby (discipline & pressure games)
 - 💪 Calisthenics (control & endurance)
-- 🎮 Minecraft (creative systems thinking)
+- 🎮 Minecraft (creative systems thinking) for now im offline
 - 🎌 Anime (visual inspiration)
 - ⚙️ Arduino (hardware experiments)
 
