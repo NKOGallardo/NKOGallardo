@@ -46,7 +46,7 @@
 ### BACKEND / DATA LAYER
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
 </p>
 
 ### DEV TOOLS / DEPLOYMENT
