@@ -13,7 +13,7 @@
 🤖 Experienced in integrating AI into real-world web applications<br>
 🏆 Top 10 Finalist — Google Cloud & Gemini AI Buildathon 2026<br>
 🏉 Rugby player — discipline translates directly into my code<br>
-⚙️ Focus: frontend engineering, AI-powered experiences, and production-quality web products<br>
+⚙️ Focus: frontend engineering and production-quality web products<br>
 📍 Based in South Africa<br>
 
 **Let's connect** (☞ﾟヮﾟ)👉 <a href="https://nkogallardo.link/#contact">Contact Me</a>
