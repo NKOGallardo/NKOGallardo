@@ -17,7 +17,7 @@
 📍 Based in South Africa<br>
 
 **Let's connect** (☞ﾟヮﾟ)👉 <a href="https://nkogallardo.link/#contact">Contact Me</a><p> 
-
+<p>YEah</p>
 ---
 
 ## 🏆 EXPERIENCE
