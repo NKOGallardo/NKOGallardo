@@ -16,7 +16,7 @@
 ⚙️ Focus: frontend engineering and production-quality web products<br>
 📍 Based in South Africa<br>
 
-**Let's connect** (☞ﾟヮﾟ)👉 <a href="https://nkogallardo.link/#contact">Contact Me</a><p>    Go and tap</p>
+**Let's connect** (☞ﾟヮﾟ)👉 <a href="https://nkogallardo.link/#contact">Contact Me</a><p> 
 
 ---
 
