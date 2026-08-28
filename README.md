@@ -73,7 +73,7 @@
 ## 🎯 ACTIVE MISSIONS
 
 ```txt
-> Build scalable production-ready web systems
+
 > Improve frontend architecture and performance
 > Expand Arduino + software integration
 > Learn Python for Machine Learning & LLMs
