@@ -73,7 +73,6 @@
 ## 🎯 ACTIVE MISSIONS
 
 ```txt
-> Master modern AI application development
 > Build scalable production-ready web systems
 > Improve frontend architecture and performance
 > Expand Arduino + software integration
