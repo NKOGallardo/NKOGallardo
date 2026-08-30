@@ -84,7 +84,7 @@
 
 ## 🚀 CURRENT INTERESTS
 
-- 🤖 Artificial Intelligence
+- 🤖 Eletronics
 - 🌐 Full-stack Web Development
 - ⚡ Performance Optimization
 - 🔥 Firebase & Cloud Services
