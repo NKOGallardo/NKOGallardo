@@ -76,7 +76,6 @@
 
 > Improve frontend architecture and performance
 > Expand Arduino + software integration
-> Learn Python for Machine Learning & LLMs
 > Build products that solve real-world problems
 ```
 
