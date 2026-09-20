@@ -58,7 +58,7 @@
 ### HARDWARE / EMBEDDED SYSTEMS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,windows" />
+  <img src="https://skillicons.dev/icons?i=arduino,windows,cpp" />
 </p>
 
 ---
