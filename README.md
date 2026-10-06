@@ -99,13 +99,6 @@
 - 🎮 Minecraft (creative systems thinking) for now im offline
 - 🎌 Anime (visual inspiration)
 - ⚙️ Arduino (hardware experiments)
-
----
-
-## 💬 FINAL STATE
-
-> For every positive action there is a corresponding reaction that opposes
-
 ---
 
 <p align="center">
