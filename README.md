@@ -8,7 +8,7 @@
 
 ## ⚡ SYSTEM OVERVIEW
 
-👋 I'm **Ntobeko**, founder of **NKOcoding** → https://nkocoding.codes<br>
+👋 I'm **Ntobeko**<br>
 💻 I build fast, clean, interactive web systems from scratch<br>
 🤖 Experienced in integrating AI into real-world web applications<br>
 🏆 Top 10 Finalist — Google Cloud & Gemini AI Buildathon 2026<br>
