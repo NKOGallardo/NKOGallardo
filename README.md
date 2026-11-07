@@ -71,17 +71,6 @@
 
 ---
 
-## 🎯 ACTIVE MISSIONS
-
-```txt
-
-> Improve frontend architecture and performance
-> Expand Arduino + software integration
-> Build products that solve real-world problems
-```
-
----
-
 ## 🚀 CURRENT INTERESTS
 
 - 🤖 Eletronics
@@ -89,6 +78,12 @@
 - ⚡ Performance Optimization
 - 🔥 Firebase & Cloud Services
 - 🧠 Human-centered Accessibility
+
+---
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=nkogallardo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188627191%3Fu%3D2779e5da69e51e419c9b205d4ddc9b8cc4c42f12%26v%3D4" alt="nkogallardo city visual" />
+</p>
 
 ---
 
