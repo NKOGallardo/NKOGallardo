@@ -9,10 +9,8 @@
 ## ⚡ SYSTEM OVERVIEW
 
 👋 I'm **Ntobeko**<br>
-💻 I build fast, clean, interactive web systems from scratch<br>
-🤖 Experienced in integrating AI into real-world web applications<br>
 🏆 Top 10 Finalist — Google Cloud & Gemini AI Buildathon 2026<br>
-🔥 React to the eletronics final at my province - at john Orr
+🏆 Top 5 Electronics - district second round<br>
 🏉 Rugby player — discipline translates directly into my code<br>
 ⚙️ Focus: frontend engineering and production-quality web products<br>
 📍 Based in South Africa<br>
