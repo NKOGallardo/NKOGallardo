@@ -1,5 +1,9 @@
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> NKO | Ntobeko
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=4E5F72&center=true&vCenter=true&width=700&lines=Full-stack+Developer;AI+Hackathon+Top+10;UI+Architect;Creative+Developer;Building+Online+Possibilities" />
+</p>
+
 ---
 
 ## ⚡ SYSTEM OVERVIEW
